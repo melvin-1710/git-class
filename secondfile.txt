@@ -1,2 +1,1 @@
 this is some text that will be committed
-this is a bad code
